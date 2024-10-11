@@ -1,0 +1,6 @@
+PlpQvGCdRRwMAgTL - password
+ambalathandiranjitha - username
+
+
+
+mongodb+srv://ambalathandiranjitha:PlpQvGCdRRwMAgTL@cluster0.s7hel.mongodb.net/
